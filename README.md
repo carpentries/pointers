@@ -157,7 +157,7 @@ inside a `LICENSES` folder:
   a `code.txt` file containing an [MIT license][mit] for that software
 
 
-#### Suplementary Materials and Information
+#### Supplementary Materials and Information
 In addition to the dataset and README file,
 submitters may wish to provide additional supplementary information for the dataset,
 including such materials as: [data dictionaries][data-dict],
