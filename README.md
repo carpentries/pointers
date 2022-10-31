@@ -55,7 +55,7 @@ All datasets submitted to the library will be reviewed by at least one person.
 There are two parts to a submission:
 
 1. A request should be made to add a [Zenodo][zenodo] record for the dataset to [the Pointers community][pointers-zenodo].
-2. A new issue should be opened on this repository, where the submission can bbe reviewed and discussed before inclusion.
+2. A new issue should be opened on this repository, where the submission can be reviewed and discussed before inclusion.
 
 Before preparing a dataset for submission,
 please read the information below.
