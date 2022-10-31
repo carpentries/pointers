@@ -1,3 +1,7 @@
+---
+name: feedback.md
+about: Submit feedback on some aspect of the Pointers open dataset collection
+---
 
 We are interested in hearing your feedback. Please respond to the following prompts:
 
