@@ -1,5 +1,5 @@
 ---
-name: submission.md
+name: Dataset submission
 about: Submit a dataset for review and inclusion in the Pointers collection
 ---
 
