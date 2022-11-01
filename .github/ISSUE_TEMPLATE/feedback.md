@@ -1,6 +1,6 @@
 ---
-name: feedback.md
-about: Submit feedback on some aspect of the Pointers open dataset collection
+name: Feedback/other issue
+about: Submit feedback or report a problem about some aspect of the Pointers open dataset collection
 ---
 
 We are interested in hearing your feedback. Please respond to the following prompts:
