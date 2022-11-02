@@ -12,7 +12,7 @@ Please give the submitter and other reviewers your overall impression of the dat
 The dataset is organized according to the following principles:
 
 
-- [ ] The data is "Tidy" (if appropriate to the data type)
+- [ ] The data is "Tidy" (if appropriate to the data type), as [described by Hadley Wickham in 2014][wickham-tidy-data-2014].
 - [ ] The data is human readable
 - [ ] The data is presented in a plain text or appropriate database format
 - [ ] The dataset is not too small or unnecessarily large for the intended lesson type
