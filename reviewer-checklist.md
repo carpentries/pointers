@@ -65,4 +65,4 @@ Code:
 
 Teaching Materials:
 - [ ] Teaching materials are presented in a generalized way that allows people unfamiliar wtih the data and/or material to teach it with relatively little preparation time
-- [ ] Teaching materials are presented in an open format (e.g. plain text, pdf)
+- [ ] Teaching materials are presented in an open format (e.g. plain text, pdf, R Markdown, Jupyter Notebook)
