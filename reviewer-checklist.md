@@ -1,13 +1,15 @@
 
-<H2>Reviewers, please use the following checklists as guidance for your review:</H2>
+# Reviewer Checklist
 
-<H2>Overall Impression of the Submission</H2>
+Reviewers, please use the following checklists as guidance for your review:
+
+## Overall Impression of the Submission
 
 Please give the submitter and other reviewers your overall impression of the dataset and supplementary materials
 
 
 
-<H2>Data Organisation</H2>
+## Data Organisation
 
 The dataset is organized according to the following principles:
 
@@ -19,7 +21,7 @@ The dataset is organized according to the following principles:
 
 
 
-<H2>Documentation</H2>
+## Documentation
 
 The documentation provided for the dataset:
 
@@ -40,7 +42,7 @@ The documenation includes the following elements, or their exclusion is warrante
 - [ ] Citation
 
 
-<H2>License</H2>
+## License
 
 To eliminate barriers to reuse, datasets in the collection should be released into the public domain, i.e. published with the Creative Commons Zero waiver (CC0). We will also accept datasets published with the Creative Commons Attribution 4.0 International license (CC-BY), but we encourage submitters to consider that CC-BY is not considered appropriate for licensing data and the license may have the unintended effect of making it more difficult for others to reuse the data.
 
@@ -50,7 +52,7 @@ To eliminate barriers to reuse, datasets in the collection should be released in
 - [ ] Any code or software provided with the dataset has been assigned an MIT license in a code.txt file
 - [ ] The license is clearly labelled and in a LICENSES folder
 
-<H2>Supplementary Materials and Information</H2>
+## Supplementary Materials and Information
 
 - [ ] Any supplementary documentation (e.g. data dictionaries) provided is well organized and understandable to a potential user
 - [ ] Any other supplementary materials (e.g. research articles, reference lists, etc.) are appropriately labelled and human readable
