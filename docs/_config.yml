@@ -2,6 +2,3 @@
 remote_theme: amitmerchant1990/reverie
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: Pointers - Open Datasets for Data Science
-description: A joint project of The Carpentries and the Academic Data Science Alliance
