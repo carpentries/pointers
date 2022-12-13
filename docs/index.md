@@ -4,10 +4,9 @@ title: Home
 nav_exclude: true
 ---
 
-# Pointers Home
+# Pointers: Open Datasets for (Data Science) Education
 
-This repository hosts the home page and submission reviews for
-[Pointers, a Zenodo community collecting datasets that are intended for use in education][pointers-zenodo].
+This website is the portal to access and submit to Pointers - an open library of datasets and supporting material for teaching data science concepts in a workshop setting. 
 
 The project is a collaboration between [the Academic Data Science Alliance (ADSA)][adsa-home] and [The Carpentries][carpentries-home].
 
