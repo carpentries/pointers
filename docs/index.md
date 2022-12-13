@@ -4,8 +4,8 @@ title: Home
 nav_exclude: true
 ---
 
-![/docs/carps-logo.png]
-![/docs/ADSA-Logo-Primary-FullColor.png]
+![Carpentries logo](./docs/carps-logo.png)
+![ADSA logo](./docs/ADSA-Logo-Primary-FullColor.png)
 
 
 
