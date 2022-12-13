@@ -5,3 +5,4 @@ plugins:
 
 title: Pointers
 description: Open Datasets for (Data Science) Education
+search_enabled: false
