@@ -37,7 +37,7 @@ we ask that submissions include a range of supporting information alongside
 the data itself.
 Below are guidelines for datasets to be included in the collection.
 
-#### Data Organisation
+##### Data Organisation
 Tabular data should be _tidy_,
 as [described by Hadley Wickham in 2014][wickham-tidy-data-2014].
 A full explanation of this concept can be found in the linked paper,
@@ -63,7 +63,7 @@ Consider creating a useful subset of your dataset
 in order to reduce any problems users might have using large or complicated data in an educational setting.
 Zenodo limits the maximum size of uploads to 50GB.
 
-#### Data Documentation
+##### Data Documentation
 Documentation can be quite minimal for datasets in the collection.
 At the very least, each dataset should be accompanied by a README -
 a plain text file in the root directory of the data record.
@@ -103,7 +103,7 @@ The README file should contain at least the following information:
   In addition, if the data does not originate from the dataset submitter,
   provide proper citation for the source dataset.
 
-#### License(s)
+##### License(s)
 To eliminate barriers to reuse,
 datasets in the collection should be released into the **public domain**,
 i.e. published with [the Creative Commons Zero waiver (CC0)][cc0].
@@ -124,7 +124,7 @@ inside a `LICENSES` folder:
   a `code.txt` file containing an [MIT license][mit] for that software
 
 
-#### Supplementary Materials and Information
+##### Supplementary Materials and Information
 In addition to the dataset and README file,
 submitters may wish to provide additional supplementary information for the dataset,
 including such materials as: [data dictionaries][data-dict],
