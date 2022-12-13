@@ -6,7 +6,7 @@ nav_exclude: true
 
 <p float="center">
   <img src="/docs/carps-logo.png" height="100" />
-  <img src="docs/ADSA-Logo-Primary-FullColor.png" height="100" /> 
+  <img src="/docs/ADSA-Logo-Primary-FullColor.png" height="100" /> 
 </p>
 
 # Pointers: Open Datasets for (Data Science) Education
