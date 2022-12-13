@@ -4,7 +4,8 @@ title: Home
 nav_exclude: true
 ---
 
-!["The Carpentries logo"](/docs/carps-logo.png) !["ADSA logo"](/docs/ADSA-Logo-Primary-FullColor.png)
+<img src="/docs/carps-logo.png" alt="Carpentries logo" width="200"/>
+<img src="/docs/ADSA-Logo-Primary-FullColor.png" alt="ADSA logo" width="200"/>
 
 # Pointers: Open Datasets for (Data Science) Education
 
