@@ -5,8 +5,8 @@ nav_exclude: true
 ---
 
 <p>
-  <img src="/docs/carps-logo.png" alt="Carpentries logo" height="100"/>
-  <img src="/docs/ADSA-Logo-Primary-FullColor.png" alt="ADSA logo" height="100"/>
+  <img src="/docs/carps-logo.png" alt="Carpentries logo" height="100" style="float:center"/>
+  <img src="/docs/ADSA-Logo-Primary-FullColor.png" alt="ADSA logo" height="100" style="float:center"/>
 </p>
 
 
