@@ -10,6 +10,8 @@ This website is the portal to access and submit to Pointers - an open library of
 
 The project is a collaboration between [the Academic Data Science Alliance (ADSA)][adsa-home] and [The Carpentries][carpentries-home].
 
+![Carpentries logo](/docs/carps-logo.png "Carpentries logo")
+
 
 ## Why Does the Collection Exist?
 Many repositories already exist for open data, and we do not intend to replace any of these.
