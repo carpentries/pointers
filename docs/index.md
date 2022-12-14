@@ -4,9 +4,6 @@ title: Home
 nav_exclude: true
 ---
 
-<img src="./carps-logo.png" style="height:100px;"/><img src="./ADSA-Logo-Primary-FullColor.png" style="height:100px;"/> 
-
-
 # Pointers: Open Datasets for (Data Science) Education
 
 This website is the portal to access and submit to Pointers - an open library of datasets and supporting material for teaching data science concepts in a workshop setting. 
