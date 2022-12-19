@@ -16,7 +16,8 @@ Datasets submitted to the Pointers community will be reviewed and accepted based
 - supplementary materials & information
 
 All datasets submitted to the library will be reviewed by at least one person.
-<! ![Diagram of the submission and review process for a dataset to be added to the Pointers collection](/fig/submission_workflow.svg)>
+
+<---! ![Diagram of the submission and review process for a dataset to be added to the Pointers collection](/fig/submission_workflow.svg)--->
 
 
 ### Information for Submitters
