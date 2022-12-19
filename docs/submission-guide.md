@@ -22,13 +22,13 @@ All datasets submitted to the library will be reviewed by at least one person.
 ### Information for Submitters
 There are two parts to a submission:
 
-1. A request should be made to add a [Zenodo][zenodo] record for the dataset to [the Pointers community][pointers-zenodo].
+1. A request should be made to add a [Zenodo](https://zenodo.org/communities/pointers) record for the dataset to [the Pointers community](https://zenodo.org/communities/pointers).
 2. A new issue should be opened on this repository, where the submission can be reviewed and discussed before inclusion.
 
 Before preparing a dataset for submission,
 please read the information below.
 You may also find it helpful to refer to
-[the checklist reviewers will use to assess the suitability of a record for inclusion in the Pointers collection][review-checklist].
+[the checklist reviewers will use to evaluate the submission.](https://carpentries.github.io/pointers/reviewer-guide.html).
 
 ### Inclusion Requirements and Guidance
 Datasets in this collection should be "ready to use" for appropiate lessons/curricula.
@@ -40,7 +40,7 @@ Below are guidelines for datasets to be included in the collection.
 
 ##### Data Organisation
 Tabular data should be _tidy_,
-as [described by Hadley Wickham in 2014][wickham-tidy-data-2014].
+as [described by Hadley Wickham in 2014](https://doi.org/10.18637/jss.v059.i10).
 A full explanation of this concept can be found in the linked paper,
 but the key points are:
 
@@ -107,28 +107,28 @@ The README file should contain at least the following information:
 ##### License(s)
 To eliminate barriers to reuse,
 datasets in the collection should be released into the **public domain**,
-i.e. published with [the Creative Commons Zero waiver (CC0)][cc0].
+i.e. published with [the Creative Commons Zero waiver (CC0)](https://creativecommons.org/share-your-work/public-domain/cc0/).
 We will also accept datasets published with
-[the Creative Commons Attribution 4.0 International license (CC-BY)][cc-by],
+[the Creative Commons Attribution 4.0 International license (CC-BY)](https://creativecommons.org/licenses/by/4.0/),
 but we encourage submitters to consider that
-[CC-BY is not considered appropriate for licensing data][panton]
+CC-BY is not considered appropriate for licensing data
 and the license may have the unintended effect of making it more difficult for
 others to reuse the data.
 
 Our recommendation is to include multiple license files in the dataset record,
 inside a `LICENSES` folder:
 
-- a `data.txt` file containing a [CC0 waiver][cc0] waiver for the data itself
-- a `documentation.txt` file containing a [CC-BY][cc-by] license for the accompanying documentation
+- a `data.txt` file containing a [CC0 waiver](https://creativecommons.org/share-your-work/public-domain/cc0/) waiver for the data itself
+- a `documentation.txt` file containing a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license for the accompanying documentation
 - and, if any software has been included in the record
   (see _Supplementary Materials & Information_ below),
-  a `code.txt` file containing an [MIT license][mit] for that software
+  a `code.txt` file containing an [MIT license](https://opensource.org/licenses/MIT) for that software
 
 
 ##### Supplementary Materials and Information
 In addition to the dataset and README file,
 submitters may wish to provide additional supplementary information for the dataset,
-including such materials as: [data dictionaries][data-dict],
+including such materials as: data dictionaries,
 related publications, code, or related teaching materials.
 
 **Teaching Materials**:
@@ -154,4 +154,4 @@ public repository (e.g. on GitHub or a similar hosting platform) and linked to
 from the dataset record.
 Submitters are encouraged to use their own judgement when deciding whether to include
 software with the data.
-Any code included in the dataset record should be published with [the MIT license][mit].
+Any code included in the dataset record should be published with [the MIT license](https://opensource.org/licenses/MIT).
